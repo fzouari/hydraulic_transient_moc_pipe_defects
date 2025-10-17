@@ -1,6 +1,3 @@
-Sure! Here's a polished and informative `README.md` for your repository:
-
----
 
 # Hydraulic Transient MOC for Pipe with Multiple Defects
 
@@ -46,11 +43,6 @@ The vectorization logic and defect modeling approach are detailed in Appendix E 
   school={Hong Kong University of Science and Technology}
 }
 ```
-
-## 🔍 Related Work
-Thanks! Here's a refined "Related Work" section you can add to your `README.md` to highlight key publications that complement your repository:
-
----
 
 ## 🔍 Related Work
 
@@ -105,7 +97,7 @@ Contributions are warmly welcomed! Whether you're fixing bugs, improving perform
 
 ### 📋 Guidelines
 
-- Keep code clean and well-commented.
+- Keep code clean.
 - Follow best practices and naming conventions.
 - Be respectful and constructive in discussions.
 
